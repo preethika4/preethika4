@@ -22,8 +22,9 @@ Welcome to my GitHub profile!
 
 ## 📬 Get in Touch
 - 📧 [Email](mailto:preethikaenika@17.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   (https://www.linkedin.com/in/preethika-raj- 
-3ab042296)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethika-raj-3ab042296)
+
+
 
 
 
