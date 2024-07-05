@@ -7,7 +7,7 @@ expanding my knowledge.
  🎯 Interested in:
   - Cloud architecture and DevOps
   - Automation and infrastructure as code
-🌱 Currently expanding my knowledge in backend developer along with *Cloud Computing* with Spotnack
+-🌱 Currently expanding my knowledge in backend developer along with *Cloud Computing* with Spotnack
 
 ## 🛠 Skills & Expertise
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
