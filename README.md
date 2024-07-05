@@ -19,8 +19,8 @@ expanding my knowledge.
 
 
 ## 📉 Activity Overview
-![Preethika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Preethika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethika4&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethika4&layout=compact&theme=radical)
 
 ## 📬 Get in Touch
 - 📧 [Email](mailto:preethikaenika@17.com)
