@@ -1,6 +1,6 @@
 # Hello All.. 
 # I'm Preethika CN! 👋
-🎓 Pursuing my Bachelor's in Computer Science and Engineering at Sri Ramakrishna Engineering College.And I'm a backend developer with a keen interest in cloud computing, currently exploring this field with Spotnack.I take pride in my ability observe and learn quickly, always exploring new technologies and 
+🎓 Pursuing my Bachelor's in Computer Science and Engineering at Sri Ramakrishna Engineering College.I'm a frontend developer with a keen interest in to develop a software,and I currently exploring my knowledge in cloud computing.I take pride in my ability observe and learn quickly, always exploring new technologies and 
 expanding my knowledge.
 
 ##  About Me
