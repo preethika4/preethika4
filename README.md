@@ -19,10 +19,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📉 Activity Overview
-![Preethika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethika4&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethika4&layout=compact&theme=radical)
-
 ## 📬 Get in Touch
 - 📧 [Email](mailto:preethikaenika17@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethikacn/)
